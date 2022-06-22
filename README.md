@@ -2,11 +2,11 @@
 
 访问
 
-XXX.herokuapp.com/v2link/index.html
+XXX.herokuapp.com/dajian06/index.html
 
 或
 
-XXX.cloud.okteto.net/v2link/index.html
+XXX.cloud.okteto.net/dajian06/index.html
 
 获取vless、vmess链接和二维码
 
